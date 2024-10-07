@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8aabc9c-357e-4e55-b0f0-8628168766ae" name="Changes" comment="finish v1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/devTools/apache-maven-3.9.6" />
+        <option name="userSettingsFile" value="$USER_HOME$/devTools/apache-maven-3.9.6/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2kYnLibVI3UFo5J56oBJ9bPIsBF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.All in reggie_take_out.executor": "Debug",
+    "JUnit.UploadFileTest.test1.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ReggieApplication.executor": "Run",
+    "git-widget-placeholder": "Rebasing master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ronghuang/Documents/MyCSCode/reggie_take_out/src/main/java/com/itheima/reggie/entity",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.13671875",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/itheima/reggie/entity" />
+      <recent name="$PROJECT_DIR$/src/main/java/utils" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/itheima/reggie/dto" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/backend/page/member" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/backend/page/demo" />
+      <recent name="$PROJECT_DIR$/src/main/resources/front" />
+      <recent name="$PROJECT_DIR$/src/main/resources/backend" />
+      <recent name="$PROJECT_DIR$/src/main/resources/backend/api" />
+      <recent name="$PROJECT_DIR$/src/main/resources/backend/page/member" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReggieApplication">
+    <configuration name="All in reggie_take_out" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadFileTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.UploadFileTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+        <item itemvalue="JUnit.UploadFileTest.test1" />
+        <item itemvalue="JUnit.All in reggie_take_out" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-f644763e9732-1a501b52" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8aabc9c-357e-4e55-b0f0-8628168766ae" name="Changes" comment="" />
+      <created>1723469325813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723469325813</updated>
+      <workItem from="1723469326994" duration="60943000" />
+      <workItem from="1723976063347" duration="33857000" />
+      <workItem from="1724752873252" duration="2615000" />
+      <workItem from="1724758291086" duration="5408000" />
+      <workItem from="1725090881463" duration="98920000" />
+      <workItem from="1726533976617" duration="581000" />
+      <workItem from="1726534567558" duration="1551000" />
+      <workItem from="1726536530312" duration="1088000" />
+      <workItem from="1726537627834" duration="1062000" />
+      <workItem from="1726611005459" duration="2234000" />
+      <workItem from="1726613620892" duration="87000" />
+      <workItem from="1726613714027" duration="956000" />
+      <workItem from="1726614679827" duration="1480000" />
+      <workItem from="1726616171951" duration="450000" />
+      <workItem from="1726616630419" duration="39000" />
+      <workItem from="1726616675779" duration="785000" />
+      <workItem from="1726617470207" duration="603000" />
+      <workItem from="1726712420244" duration="15166000" />
+      <workItem from="1727903713468" duration="3111000" />
+      <workItem from="1727979799226" duration="5125000" />
+      <workItem from="1728161056986" duration="597000" />
+      <workItem from="1728248721966" duration="4438000" />
+    </task>
+    <task id="LOCAL-00001" summary="Day1: log in and log out">
+      <option name="closed" value="true" />
+      <created>1723538907682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723538907682</updated>
+    </task>
+    <task id="LOCAL-00002" summary="加入redis,缓存验证码和菜品">
+      <option name="closed" value="true" />
+      <created>1728262781442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728262781442</updated>
+    </task>
+    <task id="LOCAL-00003" summary="加入redis,缓存验证码和菜品">
+      <option name="closed" value="true" />
+      <created>1728263321404</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728263321404</updated>
+    </task>
+    <task id="LOCAL-00004" summary="加入redis,缓存验证码和菜品">
+      <option name="closed" value="true" />
+      <created>1728263386713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728263386713</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finish v1">
+      <option name="closed" value="true" />
+      <created>1728264035487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728264035487</updated>
+    </task>
+    <task id="LOCAL-00006" summary="finish v1">
+      <option name="closed" value="true" />
+      <created>1728265943762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728265943762</updated>
+    </task>
+    <task id="LOCAL-00007" summary="finish v1">
+      <option name="closed" value="true" />
+      <created>1728266857116</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728266857116</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="646c4f57-1098-4da8-884a-872998853a8b" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="646c4f57-1098-4da8-884a-872998853a8b">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Day1: log in and log out" />
+    <MESSAGE value="加入redis,缓存验证码和菜品" />
+    <MESSAGE value="finish v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish v1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/resources/backend/js/request.js</url>
+          <line>40</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/resources/backend/js/request.js</url>
+          <line>65</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/SetmealController.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/service/impl/SetmealServiceImpl.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/ShoppingCartController.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.baomidou.mybatisplus.extension.plugins.pagination.Page" memberName="total" />
+        <PinnedItemInfo parentTag="com.itheima.reggie.entity.Orders" memberName="addressBookId" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
